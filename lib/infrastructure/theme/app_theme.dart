@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:nana/infrastructure/theme/app_colors.dart';
-import 'package:nana/infrastructure/theme/appbar_theme.dart';
+import 'package:getx_dark_mode/infrastructure/theme/app_colors.dart';
+import 'package:getx_dark_mode/infrastructure/theme/appbar_theme.dart';
 
 class AppTheme {
   // static ThemeData light = ThemeData.light().copyWith(

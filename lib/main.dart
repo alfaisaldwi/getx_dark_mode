@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
 import 'package:get/get.dart';
-import 'package:nana/infrastructure/theme/app_colors.dart';
-import 'package:nana/infrastructure/theme/app_theme.dart';
+import 'package:getx_dark_mode/infrastructure/theme/app_colors.dart';
+import 'package:getx_dark_mode/infrastructure/theme/app_theme.dart';
 
 import 'infrastructure/navigation/navigation.dart';
 import 'infrastructure/navigation/routes.dart';

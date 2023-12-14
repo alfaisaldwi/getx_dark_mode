@@ -89,13 +89,13 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "nanana" "\0"
-            VALUE "FileDescription", "nana" "\0"
+            VALUE "CompanyName", "getx_dark_modena" "\0"
+            VALUE "FileDescription", "getx_dark_mode" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "nana" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2023 nanana. All rights reserved." "\0"
-            VALUE "OriginalFilename", "nana.exe" "\0"
-            VALUE "ProductName", "nana" "\0"
+            VALUE "InternalName", "getx_dark_mode" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2023 getx_dark_modena. All rights reserved." "\0"
+            VALUE "OriginalFilename", "getx_dark_mode.exe" "\0"
+            VALUE "ProductName", "getx_dark_mode" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

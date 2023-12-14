@@ -1,1 +1,1 @@
-export 'package:nana/presentation/home/home.screen.dart';
+export 'package:getx_dark_mode/presentation/home/home.screen.dart';

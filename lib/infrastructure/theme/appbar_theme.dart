@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:nana/infrastructure/theme/app_colors.dart';
+import 'package:getx_dark_mode/infrastructure/theme/app_colors.dart';
 
 class AppBarThemes {
   static AppBarTheme light = const AppBarTheme(

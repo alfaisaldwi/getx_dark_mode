@@ -1,0 +1,1 @@
+export 'package:nana/infrastructure/navigation/bindings/controllers/home.controller.binding.dart'; 
